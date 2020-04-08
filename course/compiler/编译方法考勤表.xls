@@ -1,0 +1,941 @@
+
+
+
+ 
+
+
+
+ 
+
+
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List href="printXspscj.jsp.files/filelist.xml">
+<link rel=Edit-Time-Data href="printXspscj.jsp.files/editdata.mso">
+<link rel=OLE-Object-Data href="printXspscj.jsp.files/oledata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>强智科技</o:Author>
+  <o:LastAuthor>微软用户</o:LastAuthor>
+  <o:LastPrinted>2012-12-26T01:41:59Z</o:LastPrinted>
+  <o:Created>2002-09-08T16:05:53Z</o:Created>
+  <o:LastSaved>2013-02-20T05:18:16Z</o:LastSaved>
+  <o:Company>强智科技</o:Company>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{mso-footer-data:"&R&10教师签字\:__________________                         系\(教研室主任签字\)\:__________________       ";
+	margin:.63in .12in .75in .12in;
+	mso-header-margin:.39in;
+	mso-footer-margin:.35in;
+	mso-page-orientation:landscape;}
+.font7
+	{color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font8
+	{color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:常规;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl25
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl26
+	{mso-style-parent:style0;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl27
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl28
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl29
+	{mso-style-parent:style0;
+	font-size:18.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl30
+	{mso-style-parent:style0;
+	font-size:18.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl31
+	{mso-style-parent:style0;
+	font-size:18.0pt;
+	font-weight:700;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl32
+	{mso-style-parent:style0;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl33
+	{mso-style-parent:style0;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl34
+	{mso-style-parent:style0;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid black;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl35
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;}
+.xl36
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid windowtext;}
+.xl37
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl38
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;}
+.xl39
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;}
+.xl40
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+.xl41
+	{mso-style-parent:style0;
+	font-size:10.0pt;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid black;
+	border-left:.5pt solid windowtext;
+	white-space:normal;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;
+	display:none;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet1</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+      <x:HorizontalResolution>1200</x:HorizontalResolution>
+      <x:VerticalResolution>1200</x:VerticalResolution>
+     </x:Print>
+     <x:Selected/>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:RangeSelection>$A$1:$V$1</x:RangeSelection>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+    
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet2</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet3</x:Name>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>8550</x:WindowHeight>
+  <x:WindowWidth>12120</x:WindowWidth>
+  <x:WindowTopX>240</x:WindowTopX>
+  <x:WindowTopY>60</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1057 style='border-collapse:
+ collapse;table-layout:fixed;width:794pt'>
+ <col width=37 style='mso-width-source:userset;mso-width-alt:1184;width:28pt'>
+ <col width=95 style='mso-width-source:userset;mso-width-alt:3040;width:71pt'>
+ <col width=64 style='mso-width-source:userset;mso-width-alt:2048;width:48pt'>
+ <col width=89 style='mso-width-source:userset;mso-width-alt:2848;width:67pt'>
+ <col width=32 span=20 style='mso-width-source:userset;mso-width-alt:1024;
+ width:24pt'>
+ <col width=38 style='mso-width-source:userset;mso-width-alt:1216;width:29pt'>
+ <col width=94 style='mso-width-source:userset;mso-width-alt:3008;width:71pt'>
+
+ 
+ <tr height=40 style='mso-height-source:userset;height:30.0pt'>
+  <td colspan="24" height=40 class=xl29 width=1057 style='border-right:.5pt solid black;
+  height:30.0pt;width:794pt'>学生课堂考勤表</td>
+ </tr>
+ 
+ <tr height=25 style='mso-height-source:userset;height:18.95pt'>
+  <td colspan="24" height=25 class=xl32 style='border-right:.5pt solid black;
+  height:18.95pt'>学年学期：2019-2020学年春学期&nbsp;&nbsp;&nbsp;上课时间：(7-15,7-15)1010203,30102周&nbsp;&nbsp;&nbsp;地点：Ⅳ-A208,Ⅳ-A208</td>
+ </tr>
+ 
+ <tr height=25 style='mso-height-source:userset;height:18.95pt'>
+  <td colspan="23" height=25 class=xl32 style='height:18.95pt'>课程号-课序号：060219E1-0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;课程名称：编译方法【英】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学分：4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;任课教师：张静</td>
+  <td class=xl24>第1页</td>
+ </tr>
+ 
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td rowspan=2 height=40 class=xl35 style='border-bottom:.5pt solid black;
+  height:30.0pt;border-top:none'>序号</td>
+  <td rowspan=2 class=xl35 style='border-bottom:.5pt solid black;border-top:
+  none'>学号</td>
+  <td rowspan=2 class=xl35 style='border-bottom:.5pt solid black;border-top:
+  none'>姓名</td>
+  <td rowspan=2 class=xl35 style='border-bottom:.5pt solid black;border-top:
+  none'>班级</td>
+  <td colspan="18" class=xl38 style='border-right:.5pt solid black;border-left:
+  none'>课堂点名与平时考核记录(周次)</td>
+  <td rowspan=2 class=xl40 width=38 style='border-bottom:.5pt solid black;
+  border-top:none;width:29pt'>平<font class="font8"> </font><font class="font7">时<br>
+    成</font><font class="font8"> </font><font class="font7">绩</font></td>
+  <td rowspan=2 class=xl40 width=94 style='border-bottom:.5pt solid black;
+  border-top:none;width:71pt'>备注</td>
+ </tr>
+ 
+ 
+ 
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  
+  <td height=20 class=xl25 style='height:15.0pt'>1</td>
+  
+  <td class=xl25>2</td>
+  
+  <td class=xl25>3</td>
+  
+  <td class=xl25>4</td>
+  
+  <td class=xl25>5</td>
+  
+  <td class=xl25>6</td>
+  
+  <td class=xl25>7</td>
+  
+  <td class=xl25>8</td>
+  
+  <td class=xl25>9</td>
+  
+  <td class=xl25>10</td>
+  
+  <td class=xl25>11</td>
+  
+  <td class=xl25>12</td>
+  
+  <td class=xl25>13</td>
+  
+  <td class=xl25>14</td>
+  
+  <td class=xl25>15</td>
+  
+  <td class=xl25>16</td>
+  
+  <td class=xl25>17</td>
+  
+  <td class=xl25>18</td>
+  
+ </tr>
+
+<tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl26 style='height:15.0pt' x:num>1</td>
+  <td class=xl27 style='border-top:none;border-left:none'>91715855E101</td>
+  <td class=xl28 style='border-top:none;border-left:none'>亚博</td>
+  <td class=xl28 style='border-top:none;border-left:none'>91715855E1　</td>
+
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  <td class=xl28	></td>
+ </tr>
+			
+
+<tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl26 style='height:15.0pt' x:num>2</td>
+  <td class=xl27 style='border-top:none;border-left:none'>91715855E102</td>
+  <td class=xl28 style='border-top:none;border-left:none'>巴杰</td>
+  <td class=xl28 style='border-top:none;border-left:none'>91715855E1　</td>
+
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  <td class=xl28	></td>
+ </tr>
+			
+
+<tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl26 style='height:15.0pt' x:num>3</td>
+  <td class=xl27 style='border-top:none;border-left:none'>91715855E103</td>
+  <td class=xl28 style='border-top:none;border-left:none'>简宁</td>
+  <td class=xl28 style='border-top:none;border-left:none'>91715855E1　</td>
+
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  <td class=xl28	></td>
+ </tr>
+			
+
+<tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl26 style='height:15.0pt' x:num>4</td>
+  <td class=xl27 style='border-top:none;border-left:none'>91715855E104</td>
+  <td class=xl28 style='border-top:none;border-left:none'>张宁贝</td>
+  <td class=xl28 style='border-top:none;border-left:none'>91715855E1　</td>
+
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  <td class=xl28	></td>
+ </tr>
+			
+
+<tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl26 style='height:15.0pt' x:num>5</td>
+  <td class=xl27 style='border-top:none;border-left:none'>91715855E105</td>
+  <td class=xl28 style='border-top:none;border-left:none'>张妮娅</td>
+  <td class=xl28 style='border-top:none;border-left:none'>91715855E1　</td>
+
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  <td class=xl28	></td>
+ </tr>
+			
+
+<tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl26 style='height:15.0pt' x:num>6</td>
+  <td class=xl27 style='border-top:none;border-left:none'>91715855E106</td>
+  <td class=xl28 style='border-top:none;border-left:none'>哈里</td>
+  <td class=xl28 style='border-top:none;border-left:none'>91715855E1　</td>
+
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  <td class=xl28	></td>
+ </tr>
+			
+
+<tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl26 style='height:15.0pt' x:num>7</td>
+  <td class=xl27 style='border-top:none;border-left:none'>91715855E107</td>
+  <td class=xl28 style='border-top:none;border-left:none'>柯林斯</td>
+  <td class=xl28 style='border-top:none;border-left:none'>91715855E1　</td>
+
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  <td class=xl28	></td>
+ </tr>
+			
+
+<tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl26 style='height:15.0pt' x:num>8</td>
+  <td class=xl27 style='border-top:none;border-left:none'>91715855E108</td>
+  <td class=xl28 style='border-top:none;border-left:none'>欧克</td>
+  <td class=xl28 style='border-top:none;border-left:none'>91715855E1　</td>
+
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  <td class=xl28	></td>
+ </tr>
+			
+
+<tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl26 style='height:15.0pt' x:num>9</td>
+  <td class=xl27 style='border-top:none;border-left:none'>91715855E109</td>
+  <td class=xl28 style='border-top:none;border-left:none'>易北</td>
+  <td class=xl28 style='border-top:none;border-left:none'>91715855E1　</td>
+
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  <td class=xl28	></td>
+ </tr>
+			
+
+<tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl26 style='height:15.0pt' x:num>10</td>
+  <td class=xl27 style='border-top:none;border-left:none'>91715855E110</td>
+  <td class=xl28 style='border-top:none;border-left:none'>阿里</td>
+  <td class=xl28 style='border-top:none;border-left:none'>91715855E1　</td>
+
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  
+  <td class=xl28 style='border-top:none;border-left:none'>　</td>
+  <td class=xl28	></td>
+ </tr>
+			
+
+ 
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=37 style='width:28pt'></td>
+  <td width=95 style='width:71pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=89 style='width:67pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=38 style='width:29pt'></td>
+  <td width=94 style='width:71pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
